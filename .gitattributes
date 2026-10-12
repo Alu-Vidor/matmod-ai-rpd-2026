@@ -1,0 +1,11 @@
+*.md text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+rpd/*.csv -text
+rpd/*.txt -text
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.pdf binary
+*.zip binary
