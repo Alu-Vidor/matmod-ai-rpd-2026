@@ -3,6 +3,7 @@
 *.txt text eol=lf
 rpd/*.csv -text
 rpd/*.txt -text
+МатМодиИИ/**/*.csv -text
 *.doc binary
 *.docx binary
 *.xls binary
